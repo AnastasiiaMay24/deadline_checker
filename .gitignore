@@ -1,0 +1,22 @@
+*$py.class
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+ENV/
+
+# Логи
+*.log
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+
+# Данные/временные файлы
+*.tmp
+*.bak
